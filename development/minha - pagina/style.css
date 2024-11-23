@@ -1,0 +1,14 @@
+h1 {
+  color: red !important;
+}
+body {
+  background-color: white;
+}
+
+#text-green {
+  color: green;
+}
+
+#text-violet {
+  color: violet;
+}
